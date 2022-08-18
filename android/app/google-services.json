@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "858912005720",
+    "firebase_url": "https://q-it-62246.firebaseio.com",
+    "project_id": "q-it-62246",
+    "storage_bucket": "q-it-62246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858912005720:android:89857c50a7b72eecf8f42d",
+        "android_client_info": {
+          "package_name": "com.queue.salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858912005720-8vd328b2i6vh9uudutmu7g8f775v3rij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.queue.salon",
+            "certificate_hash": "91ef47b6d5338a425ad32ac0f6f07a9c2bf7a3a9"
+          }
+        },
+        {
+          "client_id": "858912005720-gluuog0vs52j7v5bf9nok8q0lja6skgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANSiVOhxrDypOMe4Vy6VsDxf2Ns__OoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858912005720-gluuog0vs52j7v5bf9nok8q0lja6skgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858912005720:android:00e189d5b79c3caef8f42d",
+        "android_client_info": {
+          "package_name": "com.queueit.qit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858912005720-7eb1bffg6rv6va4i91b1t0mlaoa8jaj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.queueit.qit",
+            "certificate_hash": "b4c76ed2668e7ee6cbcbcb1e12cf56cd5ed0e4ee"
+          }
+        },
+        {
+          "client_id": "858912005720-e66asqi7ju9iu2c9bha4dhuc318vs8ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.queueit.qit",
+            "certificate_hash": "8fbeb3000152d62fa3d9b320f10b802bc5760406"
+          }
+        },
+        {
+          "client_id": "858912005720-gluuog0vs52j7v5bf9nok8q0lja6skgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANSiVOhxrDypOMe4Vy6VsDxf2Ns__OoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858912005720-gluuog0vs52j7v5bf9nok8q0lja6skgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
